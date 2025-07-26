@@ -1,0 +1,22 @@
+car:
+  make: Toyota
+  model: Corolla
+  year: 2022
+  color: Blue
+  engine:
+    type: Petrol
+    horsepower: 132
+    cylinders: 4
+  transmission: Automatic
+  max_speed_kph: 180
+  features:
+    - Air Conditioning
+    - Bluetooth Connectivity
+    - Cruise Control
+    - Rear Camera
+    - Lane Assist
+  dimensions:
+    length_mm: 4630
+    width_mm: 1780
+    height_mm: 1435
+  price_usd: 22000
